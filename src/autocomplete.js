@@ -55,15 +55,18 @@ export default class AutoComplete extends Component {
   render() {
     const { isLoading, value, results, selectedPlace } = this.state;
     // const props = this.props;
-    //console.log(selectedPlace);
-     // this.handleData(selectedPlace);
+    //console.log(selectedPlace.title);
+     //this.handleData(selectedPlace);
 
 
     return (
+
+     
+
       
       <Grid>
 
-        <Grid.Column width={8}>
+        <Grid.Column width={15}>
           <Search
             loading={isLoading}
             onResultSelect={this.handleResultSelect}
@@ -80,8 +83,7 @@ export default class AutoComplete extends Component {
         
          
       </Grid>
-
-
+      
       
 
     );

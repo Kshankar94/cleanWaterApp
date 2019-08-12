@@ -1,4 +1,83 @@
-form{
+form {
 	justify-content: center;
+	color: #00a3cc;
+	text-align: center;
+	margin-top: 30px;
+	font-size: 15px;
+	/*font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif; */
+	font-family:Georgia;
 
 }
+
+input[type="text"]::placeholder {  
+              
+            /* Firefox, Chrome, Opera */ 
+            text-align: center; 
+        } 
+input[type="email"]::placeholder {  
+              
+            /* Firefox, Chrome, Opera */ 
+            text-align: center; 
+        } 
+   input[type="number"]::placeholder {  
+              
+            /* Firefox, Chrome, Opera */ 
+            text-align: center; 
+        } 
+
+     input[type=text] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: none;
+  border-bottom: 1px solid grey;
+}
+
+input[type=email] {
+  width: 100%;
+ 
+  margin: 8px 0;
+  
+  border: none;
+  border-bottom: 1px solid grey;
+}
+
+
+input[type=number] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: none;
+  border-bottom: 1px solid grey;
+}
+
+input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: none;
+  border-bottom: 1px solid grey;
+}
+
+
+.navitem {
+	color: #00a3cc;
+	/*font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;*/
+	
+	font-family:Georgia;
+	font-size:15px;
+}
+
+.navitem:global(.active) {
+	color: #ff99ff;
+	
+}
+
+
+.titlespace{
+	margin-top: 20px;
+}
+

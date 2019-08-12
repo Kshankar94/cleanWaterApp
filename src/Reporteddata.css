@@ -1,0 +1,13 @@
+.low{
+	background-color: rgb(240, 240, 240,0.2);
+	
+}
+
+.high{
+	background-color: rgba(255, 99, 71, 0.2);
+}
+
+
+.btnpos{
+	float:right;
+}

@@ -1,0 +1,73 @@
+
+
+/*.userbtn{
+	justify-content: center;
+	text-align: center;
+	/*margin-top: 300px;
+	margin-left: 300px;
+	
+	align-items: center;
+
+}
+
+
+.adminbtn{
+	justify-content: center;
+	text-align: center;
+	argin-top: 50px;
+	margin-left: 300px;
+	margin:auto;
+
+}
+*/
+
+
+
+
+/*.button {
+  background-color: #4CAF50; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  margin-left:500px;
+
+  
+}
+
+.button1 {width: 250px;}
+.button2 {width: 35%; margin-top:300px;}
+.button3 {width: 35%;margin-top:10px;}
+
+.hidden { display:none; }
+
+*/
+
+.title{
+	
+	font-size: 50px;
+	color: #00a3cc;
+	 font-family:Georgia;
+	 margin-left: 35px;
+	 height:100px;
+	 
+	 
+}
+
+
+.bg{
+	background-image: url(./map.png);
+	
+   background-position: center center;
+			background-repeat:  no-repeat;
+			background-attachment: fixed;
+			background-size:  cover;
+			
+
+}
+
