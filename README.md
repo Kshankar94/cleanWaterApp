@@ -10,6 +10,8 @@ And so are the engineers in different fields working collaboratively to provide 
 Technologies used:
 
   Front end – HTML5, CSS, Bootstrap, Flexbox, ReactJS
+  
+  API - Google location.
 
   Database – Firebase
 
