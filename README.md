@@ -11,7 +11,7 @@ Technologies used:
 
   Front end – HTML5, CSS, Bootstrap, Flexbox, ReactJS
   
-  API - Google location.
+  API - Google location/places.
 
   Database – Firebase
 
